@@ -1,6 +1,3 @@
-#Degisken Tanimlama Kurallari Defterde var.
-
-
 fiyat = 70
 metin = "Ürün fiyati {} TL'dir."
 
