@@ -7,27 +7,10 @@ def yuvarlama():
 
 yuvarlama()
 
-
-
-
 '''
-
 try --> Hata sorgulaması yaparız.
  
 except --> Hata çıktısı.
 
 finally --> Hata var yada yok mutlaka buraya uğra (Çalıştır).
-
-
 '''
-
-
-
-
-
-
-
-
-
-
-
