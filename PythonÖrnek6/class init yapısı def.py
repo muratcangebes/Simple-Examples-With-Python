@@ -1,3 +1,5 @@
+# PYTHON İLE THY UÇUS BİLGİLERİ İLE ÖRNEK
+
 class ucus():
     havayolu="THY"
 
